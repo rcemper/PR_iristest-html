@@ -1,5 +1,6 @@
 # iristest-html
-HTML report viewer and generator
+HTML report viewer and generator.
+
 Generate clean, interactive HTML reports from InterSystems IRIS %UnitTest results — save them as static files or view them directly in your browser.
 
 ![Made with ObjectScript](https://img.shields.io/badge/made%20with-ObjectScript-blue)
