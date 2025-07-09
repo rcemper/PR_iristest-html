@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-log-viewer.ZPM">
+    <Module>
+      <Name>iristest-html</Name>
+      <Version>1.0.0</Version>
+      <Description>IRIS unit test HTML report generator</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="IrisTest.HTML.PKG"/>
+    </Module>
+  </Document>
+</Export>
