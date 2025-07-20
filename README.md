@@ -44,6 +44,6 @@ Do $System.OBJ.Load("src/IrisTestHTML/Report.cls", "ck")
 
 ; Generate report
 ; file path is optional
-; set the global ^UTReport("html") = filepath for defualt fetch
+; global for default fetch set ^UTReport("html") = $LB(filepath) 
 Do ##class(IrisTest.HTML.Report).Generate(UnitTestId,filePath)
 
