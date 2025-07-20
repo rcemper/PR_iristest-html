@@ -64,19 +64,15 @@ To open IRIS Terminal do:
 $ docker-compose exec iris iris session iris
 USER>
 ```
-or using **iTerm**
-```
-http://localhost:42773/iterm/
-```
-To access IRIS System Management Portal:
-```
-http://localhost:42773/csp/sys/UtilHome.csp
-```
-To access IRIS Standard Unit Test Portal
-```
-http://localhost:42773/csp/sys/UtilHome.csp
-```
-Viewing the last example produced during startup:
-```
-http://localhost:42773/csp/user/IrisTest.HTML.Viewer.cls
-```
+or using **iTerm**:     
+[http://localhost:42773/iterm/](http://localhost:42773/iterm/)    
+
+To access IRIS System Management Portal:    
+[http://localhost:42773/csp/sys/UtilHome.csp](http://localhost:42773/csp/sys/UtilHome.csp)
+
+To access IRIS Standard Unit Test Portal:    
+[http://localhost:42773/csp/sys/%25UnitTest.Portal.Home.zen?$NAMESPACE=USER](http://localhost:42773/csp/sys/%25UnitTest.Portal.Home.zen?$NAMESPACE=USER)
+
+Viewing the last example produced during startup:    
+[http://localhost:42773/csp/user/IrisTest.HTML.Viewer.cls](http://localhost:42773/csp/user/IrisTest.HTML.Viewer.cls)
+
